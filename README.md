@@ -1,5 +1,5 @@
 # file_remover
-  - When you create directories inside directories, you can find that you cannot remove them in Windows OS.
+  - When you create directories inside directories repeatably, you can find that you cannot remove them in Windows OS.
   - This will help you remove by dragging into a panel this app provides.
 
 
